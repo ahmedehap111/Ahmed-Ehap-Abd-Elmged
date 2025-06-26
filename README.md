@@ -1,7 +1,7 @@
 
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
-<h1 align="center">Hi there 👋, I'm CNC</h1>
+<h1 align="center">Hi there 👋, I'm AHMED EHAP</h1>
 <h3 align="center">Junior Software Developer | Future Cybersecurity Specialist</h3>
 
 ---
