@@ -38,9 +38,9 @@
 
 ### 📫 Contact Me
 
-- 📧 Email: [your-email@example.com] *(غيرها بإيميلك)*  
-- 💼 LinkedIn: [your-linkedin](https://www.linkedin.com) *(غيرها بلينك حقيقي)*  
-- 💻 GitHub: [github.com/CNC](https://github.com/CNC) *(أو اللينك الحقيقي لحسابك)*  
+- 📧 Email: [ahmedeyhap521@gmail.com] *(غيرها بإيميلك)*  
+- 💼 LinkedIn: [احمد ايهاب](www.linkedin.com/in/ احمد-ايهاب-75a44a354) *(غيرها بلينك حقيقي)*  
+- 💻 GitHub: [github.com/ahmed111](https://github.com/ahmed111) *(أو اللينك الحقيقي لحسابك)*  
 
 ---
 
